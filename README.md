@@ -5,4 +5,5 @@
 
 效果展示图片：
 
+![图片缺失](https://raw.githubusercontent.com/dongrong-fu/FloatDemo/master/img-folder/0ec19fe3269149d33f60c14a5c4b61d.jpg)
 
